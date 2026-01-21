@@ -86,13 +86,13 @@
           <mxGeometry x="80" y="16.5" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-50" value="" style="group" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-47">
-          <mxGeometry x="9.25" y="30" width="40.75" height="47.25" as="geometry" />
+          <mxGeometry x="9.25" y="-4.75" width="61.5" height="82.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.18;arrowHead=43.53;dx2=24.09;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-50">
-          <mxGeometry y="1.152439024390276" width="33.13008130081301" height="46.097560975609724" as="geometry" />
+          <mxGeometry y="2.000000000000057" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=90;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-50">
-          <mxGeometry x="16.233739837398375" y="4.609756097560973" width="29.817073170731707" height="16.710365853658526" as="geometry" />
+          <mxGeometry x="24.5" y="8" width="45" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
