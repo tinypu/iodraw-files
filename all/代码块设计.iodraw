@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fchh5SC8jOaWMR9C4xar">
-    <mxGraphModel dx="306" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="410" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,33 @@
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-22" value="10" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="214.5" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-24" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89" y="208" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-25" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="267" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="95.22" y="227" width="29.55" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-26">
+          <mxGeometry width="29.55" height="18.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-26">
+          <mxGeometry x="8.165131578947369" y="9.333333333333332" width="13.219736842105265" height="18.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="103.39" y="256.5" width="13.22" height="1.67" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="103.39" y="259.5" width="13.22" height="1.67" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-31" value="10" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="224.5" width="60" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
