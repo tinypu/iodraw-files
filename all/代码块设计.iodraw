@@ -109,8 +109,8 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.25;arrowHead=31;dx2=18.05;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="40" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="95" height="60" as="geometry" />
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="35" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
