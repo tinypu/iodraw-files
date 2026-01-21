@@ -88,9 +88,6 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-57" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
           <mxGeometry x="20" y="57" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=13.55;arrowHead=43;dx2=25;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
-          <mxGeometry x="20" y="-2" width="70" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-58" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-54">
           <mxGeometry x="19" width="40" height="10" as="geometry" />
         </mxCell>
@@ -108,6 +105,9 @@
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-63" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-59">
           <mxGeometry x="19" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=13.55;arrowHead=43;dx2=25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="30" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
