@@ -161,9 +161,9 @@
           <mxGeometry x="10" y="18" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-88" value="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-83">
-          <mxGeometry x="40" y="18" width="40" height="32" as="geometry" />
+          <mxGeometry x="36" y="18" width="40" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-89" value="秒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-83">
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-89" value="秒内" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-83">
           <mxGeometry x="80" y="18" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-86" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-82">
