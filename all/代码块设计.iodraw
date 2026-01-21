@@ -20,13 +20,13 @@
           <mxGeometry x="80" y="257" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="280" width="95" height="90" as="geometry" />
+          <mxGeometry x="130" y="210" width="42.22" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-15">
-          <mxGeometry width="95" height="60" as="geometry" />
+          <mxGeometry width="42.22" height="26.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-15">
-          <mxGeometry x="26.25" y="30" width="42.5" height="60" as="geometry" />
+          <mxGeometry x="11.666052631578948" y="13.333333333333332" width="18.887894736842107" height="26.666666666666664" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
