@@ -88,8 +88,8 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.18;arrowHead=43.53;dx2=24.09;" vertex="1" parent="1">
           <mxGeometry x="270" y="338.50000000000006" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="95" height="60" as="geometry" />
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
