@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="257" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="127.78" y="220" width="29.55" height="28" as="geometry" />
+          <mxGeometry x="126.78" y="217" width="29.55" height="28" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-15">
           <mxGeometry width="29.55" height="18.666666666666664" as="geometry" />
