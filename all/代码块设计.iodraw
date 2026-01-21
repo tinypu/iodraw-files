@@ -70,9 +70,6 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;arcSize=50;rotation=-180;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-32">
           <mxGeometry x="8" width="13.22" height="1.67" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="37.2" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="60" y="370" width="150" height="69" as="geometry" />
         </mxCell>
