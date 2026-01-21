@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fchh5SC8jOaWMR9C4xar">
-    <mxGraphModel dx="93" dy="51" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="354" dy="194" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,24 +78,6 @@
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="370" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-55" value="" style="group" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-54">
-          <mxGeometry y="2" width="160" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
-          <mxGeometry width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-57" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
-          <mxGeometry x="20" y="57" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-68" value="" style="group;fillColor=none;strokeColor=none;direction=south;" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-55">
-          <mxGeometry x="20.004999999999967" y="17.995000000000005" width="40" height="43.93" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-215;fillColor=default;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-68">
-          <mxGeometry x="26.75651042084743" y="5.483999999999991" width="13.998240125787614" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.5086412240374742;endAngle=0.14373772124300782;arcWidth=0.34;fillColor=default;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-68">
-          <mxGeometry width="39.99497178796461" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-58" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-54">
           <mxGeometry x="19" width="40" height="10" as="geometry" />
