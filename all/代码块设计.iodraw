@@ -19,8 +19,11 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-10" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="257" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-11" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.7702204561781608;arrowSize=0.3768965517241378;rotation=90;" vertex="1" parent="1">
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-11" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.45152525010642836;arrowSize=0.4879525459984571;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="123.5" y="250" width="33.5" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
