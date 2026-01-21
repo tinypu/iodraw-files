@@ -22,6 +22,9 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="95" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
