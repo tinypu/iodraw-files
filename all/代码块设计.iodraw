@@ -79,6 +79,24 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="370" width="160" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-55" value="" style="group" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-54">
+          <mxGeometry y="2" width="160" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
+          <mxGeometry width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-57" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-55">
+          <mxGeometry x="20" y="57" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-68" value="" style="group;fillColor=none;strokeColor=none;direction=south;" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-55">
+          <mxGeometry x="20" y="18" width="29.14" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-215;fillColor=default;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-68">
+          <mxGeometry x="19.492117841587355" y="3.99471887093102" width="10.197717931636278" height="8.741179148645571" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.5086412240374742;endAngle=0.14373772124300782;arcWidth=0.34;fillColor=default;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-68">
+          <mxGeometry width="29.136336947532218" height="29.137263828818575" as="geometry" />
+        </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-58" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-54">
           <mxGeometry x="19" width="40" height="10" as="geometry" />
         </mxCell>
