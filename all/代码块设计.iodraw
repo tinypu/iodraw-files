@@ -71,7 +71,7 @@
           <mxGeometry x="8" width="13.22" height="1.67" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="370" width="150" height="72.50000000000006" as="geometry" />
+          <mxGeometry x="60" y="370" width="150" height="77.25000000000006" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-47">
           <mxGeometry y="2" width="150" height="60" as="geometry" />
@@ -85,11 +85,14 @@
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-38" value="10" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-47">
           <mxGeometry x="80" y="16.5" width="60" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.18;arrowHead=43.53;dx2=24.09;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="338.50000000000006" width="50" height="80" as="geometry" />
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-50" value="" style="group" vertex="1" connectable="0" parent="rGmBkwCcCqUWQCmhQkC2-47">
+          <mxGeometry x="9.25" y="30" width="40.75" height="47.25" as="geometry" />
         </mxCell>
-        <mxCell id="rGmBkwCcCqUWQCmhQkC2-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=90;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="344.5" width="45" height="29" as="geometry" />
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.18;arrowHead=43.53;dx2=24.09;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-50">
+          <mxGeometry y="1.152439024390276" width="33.13008130081301" height="46.097560975609724" as="geometry" />
+        </mxCell>
+        <mxCell id="rGmBkwCcCqUWQCmhQkC2-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=90;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-50">
+          <mxGeometry x="16.233739837398375" y="4.609756097560973" width="29.817073170731707" height="16.710365853658526" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
