@@ -182,7 +182,7 @@
           <mxGeometry x="230" y="18" width="40" height="32" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-96" value="步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-83">
-          <mxGeometry x="280" y="18" width="20" height="30" as="geometry" />
+          <mxGeometry x="280" y="20" width="20" height="28" as="geometry" />
         </mxCell>
         <mxCell id="rGmBkwCcCqUWQCmhQkC2-86" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;strokeColor=none;" vertex="1" parent="rGmBkwCcCqUWQCmhQkC2-82">
           <mxGeometry x="19" width="40" height="10" as="geometry" />
